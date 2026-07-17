@@ -1,0 +1,17 @@
+{
+  "name": "bug-image",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "axios": "^1.7.0",
+    "cypress": "^15.18.1",
+    "sharp": "^0.33.0"
+  }
+}
